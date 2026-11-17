@@ -1,3 +1,8 @@
+Nama: Rizky Hafiyyan
+Perguruan Tinggi: BINUS University Bandung
+Program Studi: Computer Science
+Fokus Pembelajaran: Cloud Computing
+
 Target PKL
 1. Memahami dasar Cloud Computing dan lima karakteristik cloud menurut NIST.
 2. Memahami perbedaan cloud dan server on-premise.
